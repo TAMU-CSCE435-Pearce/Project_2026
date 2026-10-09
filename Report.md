@@ -127,7 +127,7 @@ adiak::value("implementation_source", implementation_source); // Where you got t
 
 They will show up in the `Thicket.metadata` if the caliper file is read into Thicket.
 
-### **See the `Builds/` directory to find the correct Caliper configurations to get the performance metrics.** They will show up in the `Thicket.dataframe` when the Caliper file is read into Thicket.
+### Display your Caliper Calltree and metadata output here 
 
 ## 4. Performance evaluation
 
